@@ -7,6 +7,7 @@
   "author": {
     "name": "Amirhossein Faraji"
   },
+  "icon": "images/angular.png",
   "license": "MIT",
   "repository": {
     "type": "git",
