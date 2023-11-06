@@ -1,0 +1,39 @@
+{
+  "name": "angular-dev-theme",
+  "displayName": "Angular.dev Theme",
+  "description": "Angular.dev Theme",
+  "version": "1.0.0",
+  "publisher": "AmirhosseinFaraji",
+  "author": {
+    "name": "Amirhossein Faraji"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amirhosseinfaraji/angular-dev-theme"
+  },
+  "homepage": "https://github.com/amirhosseinfaraji/angular-dev-theme",
+  "pricing": "Free",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Angular.dev Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Angular.dev Theme-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "Angular",
+    "Angular.dev",
+    "Angular.io",
+    "Angular theme"
+  ]
+}
