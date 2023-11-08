@@ -182,6 +182,15 @@
       }
     },
     {
+      "name": "Function name",
+      "scope": "entity.name.function",
+      "settings": {
+        "foreground": "#90A7EB",
+        "fontStyle": "italic"
+      }
+    },
+
+    {
       "name": "Meta Tag",
       "scope": ["punctuation.definition.tag", "meta.tag"],
       "settings": {
